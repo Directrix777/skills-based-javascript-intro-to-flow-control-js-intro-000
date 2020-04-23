@@ -34,7 +34,7 @@ function ageChecker(age)
 
   else
   {
-    return `You are a kid'`
+    return `You are a kid'
   }
 
 }
