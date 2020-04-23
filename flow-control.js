@@ -1,4 +1,4 @@
-
+/*
 
 function basicTeenager(age)
 {
@@ -72,3 +72,4 @@ function switchAge(age)
 
   }
 }
+*/
