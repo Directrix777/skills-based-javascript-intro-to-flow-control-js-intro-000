@@ -6,7 +6,6 @@ function basicTeenager(age)
   }
 }
 
-fjeaklfj
 
 function teenager(age)
 {
